@@ -1,5 +1,6 @@
 work/
-.venv/
+.scratch/
+.venv*/
 __pycache__/
 *.pyc
 .DS_Store
@@ -7,3 +8,6 @@ __pycache__/
 *.pt
 runs/
 _instructor/solution/
+.agents/
+AGENTS.md
+docs/agents/
