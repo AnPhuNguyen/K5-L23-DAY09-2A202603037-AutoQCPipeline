@@ -15,9 +15,9 @@
     "bus": 0.6811
   },
   "manifest_sha1": null,
-  "config_sha1": "b44ba77a8a036c1cad78e0c28ed1db6ba7404125",
+  "config_sha1": "5c6c051ada83127b3dec8a73f8afa1095c72869e",
   "batch": 16,
   "imgsz": 640,
   "train_images": 224,
-  "seconds": 112.4
+  "seconds": 106.0
 }
