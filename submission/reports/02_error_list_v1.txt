@@ -6,7 +6,7 @@ duplicates -> 14 dòng
 images -> 5 dòng
 label_format -> 37 dòng
 missing_labels -> 18 dòng
-second_opinion -> 248 dòng
+second_opinion -> 147 dòng
 stats -> 4 dòng
 
 [ERROR] BAD_CLASS_ID         img_0020.txt:3  ID lớp 93 ngoài phạm vi
@@ -119,31 +119,20 @@ stats -> 4 dòng
 [WARN ] POSSIBLE_FALSE_POS   img_0204.txt:1  Box nhãn không khớp dự đoán nào
 [WARN ] POSSIBLE_FALSE_POS   img_0206.txt:1  Box nhãn không khớp dự đoán nào
 [WARN ] POSSIBLE_LOOSE_BOX   img_0015  Dự đoán đúng lớp nhưng box không khớp
-[WARN ] POSSIBLE_LOOSE_BOX   img_0015  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0018  Dự đoán đúng lớp nhưng box không khớp
-[WARN ] POSSIBLE_LOOSE_BOX   img_0023  Dự đoán đúng lớp nhưng box không khớp
-[WARN ] POSSIBLE_LOOSE_BOX   img_0030  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0036  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0038  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0045  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0045  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0046  Dự đoán đúng lớp nhưng box không khớp
-[WARN ] POSSIBLE_LOOSE_BOX   img_0051  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0054  Dự đoán đúng lớp nhưng box không khớp
-[WARN ] POSSIBLE_LOOSE_BOX   img_0058  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0062  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0062  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0063  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0064  Dự đoán đúng lớp nhưng box không khớp
-[WARN ] POSSIBLE_LOOSE_BOX   img_0068  Dự đoán đúng lớp nhưng box không khớp
-[WARN ] POSSIBLE_LOOSE_BOX   img_0069  Dự đoán đúng lớp nhưng box không khớp
-[WARN ] POSSIBLE_LOOSE_BOX   img_0075  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0077  Dự đoán đúng lớp nhưng box không khớp
-[WARN ] POSSIBLE_LOOSE_BOX   img_0081  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0082  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0090  Dự đoán đúng lớp nhưng box không khớp
-[WARN ] POSSIBLE_LOOSE_BOX   img_0091  Dự đoán đúng lớp nhưng box không khớp
-[WARN ] POSSIBLE_LOOSE_BOX   img_0094  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0094  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0096  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0119  Dự đoán đúng lớp nhưng box không khớp
@@ -155,166 +144,79 @@ stats -> 4 dòng
 [WARN ] POSSIBLE_LOOSE_BOX   img_0171  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0171  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0175  Dự đoán đúng lớp nhưng box không khớp
-[WARN ] POSSIBLE_LOOSE_BOX   img_0175  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0179  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0188  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0200  Dự đoán đúng lớp nhưng box không khớp
-[WARN ] POSSIBLE_LOOSE_BOX   img_0210  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0217  Dự đoán đúng lớp nhưng box không khớp
 [WARN ] POSSIBLE_LOOSE_BOX   img_0217  Dự đoán đúng lớp nhưng box không khớp
-[WARN ] POSSIBLE_LOOSE_BOX   img_0223  Dự đoán đúng lớp nhưng box không khớp
-[WARN ] POSSIBLE_MISSING     img_0001  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0001  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0004  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0004  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0005  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0012  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0014  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0019  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0020  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0020  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0020  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0021  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0022  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0024  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0027  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0028  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0030  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0030  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0032  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0032  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0032  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0032  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0037  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0045  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0047  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0050  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0051  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0057  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0058  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0058  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0058  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0058  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0058  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0064  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0065  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0066  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0066  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0067  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0067  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0067  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0067  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0068  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0073  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0078  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0084  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0084  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0084  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0086  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0087  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0091  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0092  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0093  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0094  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0095  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0096  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0099  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0099  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0099  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0100  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0100  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0103  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0104  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0106  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0108  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0108  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0114  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0114  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0116  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0116  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0117  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0119  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0119  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0119  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0121  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0124  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0124  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0125  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0125  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0127  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0127  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0127  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0127  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0127  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0127  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0131  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0131  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0133  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0133  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0134  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0134  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0137  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0138  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0142  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0144  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0145  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0147  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0151  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0151  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0151  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0151  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0157  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0159  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0160  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0160  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0160  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0160  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0160  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0160  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0160  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0160  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0160  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0160  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0160  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0163  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0164  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0165  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0165  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0178  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0182  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0184  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0185  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0187  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0187  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0188  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0191  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0194  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0195  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0195  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0195  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0195  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0195  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0199  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0199  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0200  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0204  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0205  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0210  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0210  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0210  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0211  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0211  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0215  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0215  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0218  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_MISSING     img_0220  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0220  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0220  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0220  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0220  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0224  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0224  Model thấy vật thể không có nhãn khớp
-[WARN ] POSSIBLE_MISSING     img_0224  Model thấy vật thể không có nhãn khớp
 [WARN ] POSSIBLE_WRONG_CLASS img_0019  Vị trí khớp nhưng khác lớp
 [WARN ] POSSIBLE_WRONG_CLASS img_0020  Vị trí khớp nhưng khác lớp
 [WARN ] POSSIBLE_WRONG_CLASS img_0021  Vị trí khớp nhưng khác lớp
@@ -324,13 +226,10 @@ stats -> 4 dòng
 [WARN ] POSSIBLE_WRONG_CLASS img_0071  Vị trí khớp nhưng khác lớp
 [WARN ] POSSIBLE_WRONG_CLASS img_0075  Vị trí khớp nhưng khác lớp
 [WARN ] POSSIBLE_WRONG_CLASS img_0083  Vị trí khớp nhưng khác lớp
-[WARN ] POSSIBLE_WRONG_CLASS img_0092  Vị trí khớp nhưng khác lớp
 [WARN ] POSSIBLE_WRONG_CLASS img_0101  Vị trí khớp nhưng khác lớp
 [WARN ] POSSIBLE_WRONG_CLASS img_0112  Vị trí khớp nhưng khác lớp
 [WARN ] POSSIBLE_WRONG_CLASS img_0124  Vị trí khớp nhưng khác lớp
-[WARN ] POSSIBLE_WRONG_CLASS img_0124  Vị trí khớp nhưng khác lớp
 [WARN ] POSSIBLE_WRONG_CLASS img_0160  Vị trí khớp nhưng khác lớp
-[WARN ] POSSIBLE_WRONG_CLASS img_0180  Vị trí khớp nhưng khác lớp
 [WARN ] POSSIBLE_WRONG_CLASS img_0183  Vị trí khớp nhưng khác lớp
 [WARN ] POSSIBLE_WRONG_CLASS img_0185  Vị trí khớp nhưng khác lớp
 [WARN ] POSSIBLE_WRONG_CLASS img_0191  Vị trí khớp nhưng khác lớp
@@ -356,6 +255,6 @@ warn  BOX_TINY               6
 warn  CLASS_RARE             4
 warn  EMPTY_LABEL            12
 warn  POSSIBLE_FALSE_POS     29
-warn  POSSIBLE_LOOSE_BOX     45
-warn  POSSIBLE_MISSING       152
-warn  POSSIBLE_WRONG_CLASS   22
+warn  POSSIBLE_LOOSE_BOX     31
+warn  POSSIBLE_MISSING       68
+warn  POSSIBLE_WRONG_CLASS   19

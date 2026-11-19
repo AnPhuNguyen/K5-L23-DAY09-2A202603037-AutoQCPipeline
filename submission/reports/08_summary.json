@@ -2,17 +2,17 @@
   "verdict": {
     "decision": "Hold",
     "n_errors": 0,
-    "n_warn_images": 60,
+    "n_warn_images": 45,
     "n_images": 205,
-    "warn_ratio": 0.2927,
+    "warn_ratio": 0.2195,
     "reasons": [
-      "Tỉ lệ ảnh còn cảnh báo 60/205 = 0.2927 đạt ngưỡng Hold 0.1000"
+      "Tỉ lệ ảnh còn cảnh báo 45/205 = 0.2195 đạt ngưỡng Hold 0.1000"
     ]
   },
   "reviewed": 80,
   "budget": 80,
-  "seconds": 4.1,
+  "seconds": 3.8,
   "exported": "D:\\Dev\\Ai_thuc_chien_vinuni\\K5-L23-DAY09-2A202603037-AutoQCPipeline\\submission\\export\\clean_v1",
-  "config_sha1": "b44ba77a8a036c1cad78e0c28ed1db6ba7404125",
+  "config_sha1": "5c6c051ada83127b3dec8a73f8afa1095c72869e",
   "review_sim_sha1": "7988ca22827f780a7043a2300490e679a1697154"
 }
